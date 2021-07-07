@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @niyannx. I'm a student from Bulgaria. 
+I study at Student at Professional High School of Computing and Technology Systems - Pravets;
+I'm 17 years old.
+- 👀 I’m interested in learning new things about development and programming, both back-end and front-end.
+- 🌱 I’m currently learning C-Basics and Java-Basics; 
+I know I have a lot to learn, but I'm motivated and a hard-worker.
+- 📫 How to reach me -
+
+GMAIL : niyannx@gmail.com;
