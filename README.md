@@ -4,10 +4,10 @@ I'm a student at Professional High School of Computing and Technology Systems - 
 I'm 17 years old.
 
 # Currently learning:
-<img src="https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png" alt="JavaScript">
-<img src="https://user-images.githubusercontent.com/80352675/169709440-e5c8c2d7-3ad2-4cec-8b5c-c1b37304b394.png" alt="Java">
-<img src="https://user-images.githubusercontent.com/80352675/169709492-d003b2fa-3c61-47c0-941c-8c60995cf15b.png" alt="PHP">
-<img src="https://user-images.githubusercontent.com/80352675/169709531-e9614529-b903-4f64-b3dd-0da6954ece24.png" alt="SQL">
+<img src="https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png" alt="JavaScript" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/80352675/169709440-e5c8c2d7-3ad2-4cec-8b5c-c1b37304b394.png" alt="Java" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/80352675/169709492-d003b2fa-3c61-47c0-941c-8c60995cf15b.png" alt="PHP" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/80352675/169709531-e9614529-b903-4f64-b3dd-0da6954ece24.png" alt="SQL" height="40" width="40">
 
 Java, a bit of PHP, HTML, Linux and other tech (mainly at school). 
 
