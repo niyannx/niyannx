@@ -8,3 +8,5 @@ I know I have a lot to learn, but I'm motivated and a hard-worker.
 
 - 📫 How to reach me -
 GMAIL : niyannx@gmail.com;
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
