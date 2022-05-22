@@ -23,6 +23,4 @@ I know I have a lot to learn, but I'm motivated and a hard-worker.
 GMAIL : [niyannx@gmail.com](mailto:niyannx@gmail.com)
 
 # My stats:
-![](https://github-readme-stats.vercel.app/api?username=niyannx&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niyannx&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=niyannx&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niyannx&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
