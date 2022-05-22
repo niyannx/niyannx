@@ -2,7 +2,7 @@
 
 I'm a student at Professional High School of Computing and Technology Systems - Pravets, Bulgaria; I'm 17 years old.
 
-# 📙 Currently learning:
+# 📙 Currently exploring:
 <div class="things-im-learning-lol">
 <a href="https://en.wikipedia.org/wiki/JavaScript" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png" alt="JavaScript" height="40" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709440-e5c8c2d7-3ad2-4cec-8b5c-c1b37304b394.png" alt="Java" height="40" width="30"></a>
