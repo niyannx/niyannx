@@ -18,13 +18,10 @@ I know I have a lot to learn, but I'm motivated and a hard-worker.
 
 <br>
   
-<div>
 - 📫 How to reach me -
 GMAIL : [niyannx@gmail.com](mailto:niyannx@gmail.com)
-</div>
 
 <br>
-  
 
 ![](https://github-readme-stats.vercel.app/api?username=niyannx&show_icons=true)
 <br>
