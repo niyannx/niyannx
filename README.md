@@ -1,7 +1,9 @@
-# <h1>👋 Hello world, I’m @niyannx. </h1>
+# 👋 Hello world, I’m @niyannx.
 
 I'm a student at Professional High School of Computing and Technology Systems - Pravets, Bulgaria;
 I'm 17 years old.
+
+
 
 # Currently learning:
 <div class="things-im-learning-lol">
@@ -16,11 +18,17 @@ I'm 17 years old.
 <img src="https://user-images.githubusercontent.com/80352675/169709675-ec50b6de-232d-4096-91e8-2491ccf41308.png" alt="CSS" height="40" width="40">
 </div>
 
+
+
 # 👀 Join me on my journey and watch as I grow!
 I know I have a lot to learn, but I'm motivated and a hard-worker.
 
+
+
 # 📫 How to reach me:
 GMAIL : [niyannx@gmail.com](mailto:niyannx@gmail.com)
+
+
 
 # My stats:
 ![](https://github-readme-stats.vercel.app/api?username=niyannx&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niyannx&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
