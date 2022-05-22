@@ -4,7 +4,7 @@ I'm a student at Professional High School of Computing and Technology Systems - 
 I'm 17 years old.
 
 # Currently learning:
-<img scr="https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png" width="40px" height="40px">
+![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png)
 Java Script (SoftUni, JavaScript Advanced), Java, a bit of PHP, HTML, Linux and other tech (mainly at school). 
 
 # 👀 Join me on my journey and watch as I grow!
