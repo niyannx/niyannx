@@ -6,8 +6,11 @@ I'm a student at Professional High School of Computing and Technology Systems - 
 <div class="things-im-learning-lol">
 <a href="https://en.wikipedia.org/wiki/JavaScript" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709263-c92f5fee-90ac-4853-81ea-98616106b1d5.png" alt="JavaScript" height="40" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709440-e5c8c2d7-3ad2-4cec-8b5c-c1b37304b394.png" alt="Java" height="40" width="30"></a>
+<a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/216627904-7672bcfa-14da-41ff-9396-c52dadf5ccde.png" alt="Angular" height="40" width="40"></a>
+<a href="https://en.wikipedia.org/wiki/TypeScript" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/216628222-cd955981-848d-4b28-b122-7795198e1adf.png" alt="TypeScript" height="40" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/PHP" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709492-d003b2fa-3c61-47c0-941c-8c60995cf15b.png" alt="PHP" height="40" width="50"></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709531-e9614529-b903-4f64-b3dd-0da6954ece24.png" alt="SQL" height="40" width="50"></a>
+<a href="https://en.wikipedia.org/wiki/PostgreSQL" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/216628800-da9b0410-3c38-4092-9a69-70ceb363e124.png" alt="PostgreSQL" height="40" width="50"></a>
 <a href="https://en.wikipedia.org/wiki/Linux_kernel" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709782-297714bf-a955-42be-b08a-8dd811741f7f.png" alt="Linux" height="40" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/GitHub" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709796-83909162-3625-4be4-8081-515aa2d318fe.png" alt="GitHub" height="40" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/XAMPP" target=”_blank”><img src="https://user-images.githubusercontent.com/80352675/169709657-4e4e7a62-c510-40d7-83ec-f8d830a418d7.png" alt="XAMPP" height="40" width="40"></a>
