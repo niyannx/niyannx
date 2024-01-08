@@ -1,6 +1,6 @@
 # 👋 Hello world, I’m @niyannx!
 
-I'm a student at Professional High School of Computing and Technology Systems - Pravets, Bulgaria; I'm 18 years old.
+I'm a student at Technical University - Sofia, Bulgaria; I'm 19 years old.
 
 # 📙 Currently exploring:
 <div class="things-im-learning-lol">
